@@ -1,0 +1,120 @@
+{
+  "renderedAt": "2026-11-21T06:57:08.883Z",
+  "city": "Amsterdam",
+  "dateShort": "Sat 21 Nov",
+  "dateLine": "Saturday 21 November",
+  "updated": "07:45",
+  "temp": 7,
+  "feels": 4,
+  "humidity": 75,
+  "wind": 8,
+  "windDir": "SW",
+  "cond": "Overcast",
+  "hi": 10,
+  "lo": 5,
+  "rainLine": "Rain from 10:00 today",
+  "chart": "<svg viewBox=\"0 0 1000 205\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"DM Sans, sans-serif\"><rect x=\"120.0\" y=\"102\" width=\"40.0\" height=\"66\" fill=\"#ececec\"/><rect x=\"320.0\" y=\"102\" width=\"80.0\" height=\"66\" fill=\"#ececec\"/><rect x=\"6.4\" y=\"164.0\" width=\"27.2\" height=\"4.0\" fill=\"#b5b5b5\"/><g transform=\"translate(81.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 -6) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"26\" y1=\"47\" x2=\"24\" y2=\"56\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"38\" y1=\"47\" x2=\"36\" y2=\"56\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"100.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">7°</text><text x=\"100.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >09</text><line x1=\"100.0\" y1=\"168\" x2=\"100.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><rect x=\"166.4\" y=\"162.6\" width=\"27.2\" height=\"5.4\" fill=\"#b5b5b5\"/><rect x=\"206.4\" y=\"154.8\" width=\"27.2\" height=\"13.2\" fill=\"#b5b5b5\"/><g transform=\"translate(201.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"47.0\" y1=\"32.0\" x2=\"53.0\" y2=\"32.0\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"42.6\" y1=\"42.6\" x2=\"46.8\" y2=\"46.8\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"32.0\" y1=\"47.0\" x2=\"32.0\" y2=\"53.0\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"21.4\" y1=\"42.6\" x2=\"17.2\" y2=\"46.8\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"17.0\" y1=\"32.0\" x2=\"11.0\" y2=\"32.0\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"21.4\" y1=\"21.4\" x2=\"17.2\" y2=\"17.2\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"32.0\" y1=\"17.0\" x2=\"32.0\" y2=\"11.0\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"42.6\" y1=\"21.4\" x2=\"46.8\" y2=\"17.2\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"220.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">10°</text><text x=\"220.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >12</text><line x1=\"220.0\" y1=\"168\" x2=\"220.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><rect x=\"246.4\" y=\"148.2\" width=\"27.2\" height=\"19.8\" fill=\"#b5b5b5\"/><rect x=\"286.4\" y=\"142.2\" width=\"27.2\" height=\"25.8\" fill=\"#b5b5b5\"/><rect x=\"326.4\" y=\"137.4\" width=\"27.2\" height=\"30.6\" fill=\"#b5b5b5\"/><g transform=\"translate(321.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 -6) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"26\" y1=\"47\" x2=\"24\" y2=\"56\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"38\" y1=\"47\" x2=\"36\" y2=\"56\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"340.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">9°</text><text x=\"340.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >15</text><line x1=\"340.0\" y1=\"168\" x2=\"340.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><rect x=\"366.4\" y=\"137.4\" width=\"27.2\" height=\"30.6\" fill=\"#b5b5b5\"/><rect x=\"406.4\" y=\"145.8\" width=\"27.2\" height=\"22.2\" fill=\"#b5b5b5\"/><rect x=\"446.4\" y=\"158.4\" width=\"27.2\" height=\"9.6\" fill=\"#b5b5b5\"/><g transform=\"translate(441.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 2) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"460.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">8°</text><text x=\"460.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >18</text><line x1=\"460.0\" y1=\"168\" x2=\"460.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><g transform=\"translate(561.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 2) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"580.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">8°</text><text x=\"580.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >21</text><line x1=\"580.0\" y1=\"168\" x2=\"580.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><g transform=\"translate(681.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(-12 -6) scale(0.8)\" d=\"M40 12a20 20 0 1 0 14 30 16 16 0 0 1-14-30z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path transform=\"translate(6 6) scale(0.95)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"700.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">5°</text><text x=\"700.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" font-weight=\"700\">Sun</text><line x1=\"700.0\" y1=\"168\" x2=\"700.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"680.0\" y1=\"90\" x2=\"680.0\" y2=\"168\" stroke=\"#000\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><g transform=\"translate(801.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(-4 2) scale(1.05)\" d=\"M40 12a20 20 0 1 0 14 30 16 16 0 0 1-14-30z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"820.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">4°</text><text x=\"820.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >03</text><line x1=\"820.0\" y1=\"168\" x2=\"820.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><g transform=\"translate(921.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 2) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"940.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">4°</text><text x=\"940.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >06</text><line x1=\"940.0\" y1=\"168\" x2=\"940.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"0\" y1=\"168\" x2=\"1000\" y2=\"168\" stroke=\"#000\" stroke-width=\"2.5\"/></svg>",
+  "when": [
+    {
+      "label": "Today",
+      "items": [
+        {
+          "b": "Rain",
+          "t": "10:00–11:00"
+        },
+        {
+          "b": "Drizzle",
+          "t": "15:00–17:00"
+        },
+        {
+          "b": "Dry",
+          "t": "17:00–23:00"
+        },
+        {
+          "b": "Coldest",
+          "t": "23:00 (6°)"
+        }
+      ]
+    },
+    {
+      "label": "Overnight",
+      "items": [
+        {
+          "b": "Dry",
+          "t": "all night"
+        },
+        {
+          "b": "Low",
+          "t": "3° at 04:00, feels 0°"
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "name": "Sun",
+      "kind": "cloud",
+      "hi": 9,
+      "lo": 3,
+      "pop": 0,
+      "when": "Dry"
+    },
+    {
+      "name": "Mon",
+      "kind": "cloud",
+      "hi": 8,
+      "lo": 1,
+      "pop": 2,
+      "when": "Dry"
+    },
+    {
+      "name": "Tue",
+      "kind": "fog",
+      "hi": 5,
+      "lo": -3,
+      "pop": 2,
+      "when": "Dry"
+    },
+    {
+      "name": "Wed",
+      "kind": "cloud",
+      "hi": 2,
+      "lo": -1,
+      "pop": 4,
+      "when": "Dry"
+    }
+  ],
+  "outfit": {
+    "pants": "trousers",
+    "shoes": "rainboots",
+    "top": "sweater",
+    "outer": "coat",
+    "scarf": true,
+    "beanie": false,
+    "gloves": false,
+    "cap": false,
+    "shades": false,
+    "umbrella": true,
+    "hood": false,
+    "windy": false,
+    "mood": "calm",
+    "scene": "rain",
+    "items": [
+      "Wool coat",
+      "Knit sweater",
+      "Warm trousers",
+      "Scarf",
+      "Rain boots",
+      "Umbrella"
+    ],
+    "line": "Wet 10–11. Umbrella!"
+  },
+  "chartTitle": "Next 24 hours",
+  "dressedFor": "Dressed for today",
+  "fitLabel": "Today's fit",
+  "fitRange": "07–21 · feels 6° · 7–10°",
+  "sunrise": "08:11",
+  "sunset": "16:40",
+  "daylight": "8h 29m",
+  "uv": 1
+}
