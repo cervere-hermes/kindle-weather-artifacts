@@ -1,0 +1,121 @@
+{
+  "renderedAt": "2026-11-28T01:55:02.322Z",
+  "city": "Amsterdam",
+  "dateShort": "Sat 28 Nov",
+  "dateLine": "Saturday 28 November",
+  "updated": "02:45",
+  "temp": -2,
+  "feels": -7,
+  "humidity": 85,
+  "wind": 12,
+  "windDir": "SE",
+  "cond": "Mostly clear",
+  "hi": 2,
+  "lo": -3,
+  "rainLine": "Dry for the rest of today",
+  "chart": "<svg viewBox=\"0 0 1000 205\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"DM Sans, sans-serif\"><g transform=\"translate(41.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(-4 2) scale(1.05)\" d=\"M40 12a20 20 0 1 0 14 30 16 16 0 0 1-14-30z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"60.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">-2°</text><text x=\"60.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >03</text><line x1=\"60.0\" y1=\"168\" x2=\"60.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><g transform=\"translate(161.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 2) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"180.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">-3°</text><text x=\"180.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >06</text><line x1=\"180.0\" y1=\"168\" x2=\"180.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><g transform=\"translate(281.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 2) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"300.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">-2°</text><text x=\"300.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >09</text><line x1=\"300.0\" y1=\"168\" x2=\"300.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><g transform=\"translate(401.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 2) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"420.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">1°</text><text x=\"420.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >12</text><line x1=\"420.0\" y1=\"168\" x2=\"420.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><g transform=\"translate(521.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 2) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"540.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">2°</text><text x=\"540.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >15</text><line x1=\"540.0\" y1=\"168\" x2=\"540.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><g transform=\"translate(641.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 2) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"660.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">2°</text><text x=\"660.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >18</text><line x1=\"660.0\" y1=\"168\" x2=\"660.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><g transform=\"translate(761.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 2) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"780.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">2°</text><text x=\"780.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" >21</text><line x1=\"780.0\" y1=\"168\" x2=\"780.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><g transform=\"translate(881.0 0)\"><svg x=\"0\" y=\"0\" viewBox=\"0 0 64 64\" width=\"38\" height=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path transform=\"translate(0 2) scale(1)\" d=\"M18 46h30a10 10 0 0 0 1-20 14 14 0 0 0-27-3 10 10 0 0 0-4 23z\" fill=\"#fff\" stroke=\"#000\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></g><text x=\"900.0\" y=\"80\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\">2°</text><text x=\"900.0\" y=\"198\" text-anchor=\"middle\" font-size=\"25\" fill=\"#333\" font-weight=\"700\">Sun</text><line x1=\"900.0\" y1=\"168\" x2=\"900.0\" y2=\"174\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"880.0\" y1=\"90\" x2=\"880.0\" y2=\"168\" stroke=\"#000\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><rect x=\"926.4\" y=\"162.0\" width=\"27.2\" height=\"6.0\" fill=\"#b5b5b5\"/><rect x=\"966.4\" y=\"155.4\" width=\"27.2\" height=\"12.6\" fill=\"#b5b5b5\"/><line x1=\"0\" y1=\"168\" x2=\"1000\" y2=\"168\" stroke=\"#000\" stroke-width=\"2.5\"/></svg>",
+  "when": [
+    {
+      "label": "Today",
+      "items": [
+        {
+          "b": "Dry",
+          "t": "all day"
+        },
+        {
+          "b": "Below 0°",
+          "t": "until 12:00, icy"
+        },
+        {
+          "b": "Coldest",
+          "t": "06:00 (-3°, feels -7°)"
+        },
+        {
+          "b": "Warmest",
+          "t": "14:00 (2°)"
+        }
+      ]
+    },
+    {
+      "label": "Overnight",
+      "items": [
+        {
+          "b": "Dry",
+          "t": "all night"
+        },
+        {
+          "b": "Low",
+          "t": "2° at 00:00, feels -4°"
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "name": "Sun",
+      "kind": "rain",
+      "hi": 5,
+      "lo": 2,
+      "pop": 82,
+      "when": "Rain 06–13"
+    },
+    {
+      "name": "Mon",
+      "kind": "fog",
+      "hi": 4,
+      "lo": 2,
+      "pop": 1,
+      "when": "Dry"
+    },
+    {
+      "name": "Tue",
+      "kind": "drizzle",
+      "hi": 5,
+      "lo": 4,
+      "pop": 48,
+      "when": "Rain 23–00"
+    },
+    {
+      "name": "Wed",
+      "kind": "drizzle",
+      "hi": 9,
+      "lo": 4,
+      "pop": 75,
+      "when": "Rain 08–20"
+    }
+  ],
+  "outfit": {
+    "pants": "trousers",
+    "shoes": "boots",
+    "top": "sweater",
+    "outer": "puffer",
+    "scarf": true,
+    "beanie": true,
+    "gloves": true,
+    "cap": false,
+    "shades": false,
+    "umbrella": false,
+    "hood": false,
+    "windy": true,
+    "mood": "cold",
+    "scene": "cloud",
+    "items": [
+      "Puffer jacket",
+      "Knit sweater",
+      "Warm trousers",
+      "Scarf",
+      "Beanie",
+      "Gloves",
+      "Boots"
+    ],
+    "line": "Brrr. All the layers."
+  },
+  "chartTitle": "Next 24 hours",
+  "dressedFor": "Dressed for today",
+  "fitLabel": "Today's fit",
+  "fitRange": "07–21 · feels -5° · -3–2°",
+  "sunrise": "08:23",
+  "sunset": "16:33",
+  "daylight": "8h 10m",
+  "uv": 1
+}
